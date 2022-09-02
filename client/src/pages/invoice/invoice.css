@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.invoice {
+padding-left: 250px;
+padding-top: 100px;
+ padding-right: 100px;
+}
+.invoice-nav {
+  display: flex;
+}
+.date-and-id {
+  margin-left: 300px;
+}
+.hr-one {
+  width: 630px;
+  margin-top: 10px;
+}
+.customername {
+  margin-top: 30px;
+  display: flex;
+}
+.hr-name {
+  width: 630px;
+}
+.invoice-data {
+  display: flex;
+  justify-content: baseline;
+  padding-right: 20px;
+  margin-top: 50px;
+}
+.invoice-data-result {
+  display: flex;
+  justify-content: baseline;
+  padding-right: 20px;
+  margin-top: 50px;
+}
+.servicetypee {
+  margin-right: 80px;
+}
+.numberofitemss {
+  margin-right: 0px;
+  margin-left: 50px;
+}
+.price {
+  margin-right: 80px;
+  margin-left: 100px;
+}
+.descount {
+  margin-right: 80px;
+  margin-left: 50px;
+}
+/*result*/
+.servicetypeee {
+
+  }
+  .numberofitemsss {
+
+    padding-left: 100px;
+  }
+  .pricee {
+    
+    padding-left: 185px;
+  }
+  .descountt {
+  padding-left: 175px;
+  }
+  
+
+
+
+.hr-two {
+  width: 630px;
+}
+.subtotal-items {
+  margin-top: 100px;
+}
+.hr-three {
+  width: 630px;
+  margin-top: 50px;
+}
+.alltotal {
+  margin-top: 10px;
+}

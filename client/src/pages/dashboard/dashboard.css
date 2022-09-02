@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    margin: 0;padding: 0;
+}
+.dashboard{
+display: flex;
+}
+.dashboard-form{
+
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 500px;
+    background-color:#fff;
+    border: solid 0.1px;
+    margin-left:200px ;
+}
+.bills{
+    padding-left: 300px;
+    padding-top: 80px;
+}
+.infos{
+  margin-top: -220px;
+margin-left: 550px;
+   
+}
+.price-input{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.price-discount{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.price-numberofitems{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.castomer-name-input{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.input-servicetype{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.span-price{
+    font-size: 20px;
+    font-family: 'Karla', sans-serif;
+}
+.span-discount{
+    font-size: 20px;
+    font-family: 'Karla', sans-serif;
+    margin-top:10px;
+}
+.span-numberofitems{
+    font-size: 20px;
+    font-family: 'Karla', sans-serif;
+    margin-top:10px;
+}
+.span-castomer-name{
+    font-size: 20px;
+    font-family: 'Karla', sans-serif;
+    margin-top:10px;
+}
+.span-servicetype{
+    font-size: 20px;
+    font-family: 'Karla', sans-serif;
+    margin-top:10px;
+}
+.btn-dashboard{
+    margin-top: 130px;
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    margin-left: 500px;
+
+}
+.download{
+    margin-top: 130px;
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+
+}

@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0;padding: 0;
+}
+.singup{
+    display: flex;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.logo-img{
+    width: 100px;
+    height: 40px;
+}
+.singup-allform{
+    display: flex;
+    margin-top: 300px;
+    margin-left: 350px;
+}
+.singup-form{
+    display: flex;
+ flex-direction: column;
+}
+.username{
+    width: 220px;
+    height: 35px;
+    border-radius: 7px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.email{
+    width: 220px;
+    height: 35px;
+    border-radius: 7px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.password{
+    width: 220px;
+    height: 35px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+span{
+    margin-left: -150px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.btn-primary{
+    width: 120px;
+    height: 35px;
+    border-radius: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.singup-login{
+    margin-left: 120px;
+    margin-top: -30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
